@@ -1,4 +1,4 @@
-import { Root } from '$lib/contracts/root'
+import { Root } from '../../contracts/root'
 import { DefaultProvider, bsv} from 'scrypt-ts'
 import { NeucronSigner } from 'neucron-signer'
 
